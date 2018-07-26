@@ -1,2 +1,2 @@
 # infnoise-gitian.sigs
-Gitian signatures for the Infnite Noise TRNG's driver
+This repository contains Gitian signatures for releases of the Infnite Noise TRNG's driver.
